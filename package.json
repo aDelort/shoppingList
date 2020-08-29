@@ -1,6 +1,8 @@
 {
-    "name": "shopping-list",
-    "version": "0.1.0",
-    "dependencies": {
-    }
+  "name": "shopping-list",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "2.1.1"
+  }
 }
